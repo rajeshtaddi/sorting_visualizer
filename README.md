@@ -8,5 +8,5 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-Check<a href="https://github.com/rajeshtaddi/sorting_visualizer"> Here</a>
+Check<a href="https://github.com/rajeshtaddi/sorting_visualizer/"> Here</a>
 
